@@ -1,0 +1,2 @@
+# skriv på denne måten
+<package-name>==<version>

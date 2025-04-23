@@ -1,8 +1,2 @@
-- summary of model performance
-- innholdsfortegnelse
-- sjekke imports
-- requirements.txt 
-- lese gjennom oppgaven
-- legge til mer tekst på lgbm 
-- korte ned all tekst 
-- fikse lstm 
+- innholdsfortegnelse - bruk extension
+- fjerne imports som ikke brukes

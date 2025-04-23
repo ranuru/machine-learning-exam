@@ -1,2 +1,11 @@
-# skriv på denne måten
-<package-name>==<version>
+<pandas>==<2.2.3>
+<seaborn>==<0.13.2>
+<matplotlib>==<3.9.2>
+<numpy>==<2.1.2>
+<nltk>==<3.9.1>
+<scikit-learn>==<1.6.1>
+<mglearn>==<0.2.0>
+<joblib>==<1.4.2>
+<lightgbm>==<4.6.0>
+<tensorflow>==<2.19.0>
+<keras>==<3.9.0>

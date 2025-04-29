@@ -1,0 +1,12 @@
+keras==3.9.0
+lightgbm==4.6.0
+matplotlib==3.10.1
+nbformat==5.10.4
+nltk==3.9.1
+numpy==2.2.5
+opencv_python==4.11.0.86
+pandas==2.2.3
+scikit_learn==1.6.1
+seaborn==0.13.2
+tensorflow==2.19.0
+tensorflow_addons==0.23.0

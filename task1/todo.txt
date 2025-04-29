@@ -1,2 +1,4 @@
-- innholdsfortegnelse - bruk extension
-- fjerne imports som ikke brukes
+- pr curve for task 2
+- update table of contens
+- new requirements.txt
+- zip file with pdf, notebook and requirements.txt

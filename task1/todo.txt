@@ -1,2 +1,0 @@
-- new requirements.txt
-- zip file with pdf, notebook and requirements.txt
